@@ -15,7 +15,7 @@ The site is built as a static web application with a focus on clarity, performan
 
 ## Preview
 
-To view a live preview of the site, [click here](https://mash378.github.io/portfolio/).
+To view a live preview of the site, [click here](https://mash378.github.io/portfolio-v2/).
 
 ---
 
