@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Mashroor Newaz",
-  title: "Senior Software Engineer",
+  title: "Software Engineer · ML & AI",
   description: "Portfolio website of Mashroor Newaz",
   accentColor: "#1d4ed8",
   social: {
